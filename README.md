@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gbvbahia01
+- 👋 Hi, I’m Guilherme Bahia
 - 👀 I’m interested in Java -> Spring Boot (Batch, MVC, Security, WebSocket, JPA Repository, Mongo Repository), Swift UiKit and UI and React
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me gbvbahia01@gmail.com
